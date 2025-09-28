@@ -35,9 +35,4 @@ The site also has a **Contact Us** section for travelers to reach out.
    git clone https://github.com/utkarshchandra38-del/Utkarsh-Chandra-Singh_202501100400349.git
 
 
----
 
-## 📂 Installation & Usage
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/utkarshchandra38-del/Utkarsh-Chandra-Singh_202501100400349.git
